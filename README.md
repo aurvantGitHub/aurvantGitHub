@@ -8,7 +8,8 @@
 ![](https://komarev.com/ghpvc/?username=aurvantGitHub)
 
 ---
- <div id="header" align="left">
+<div id="header" align="left">
+</div>
 ### :man_technologist: About me:
 *  👋 Hi, I’m Ayrton Urviola
 *  👀 I’m interested in Data Analysis and Data Science
