@@ -4,9 +4,9 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-urviola-antezana/)
 
-<div id="badges" align="center">
-  ![](https://komarev.com/ghpvc/?username=aurvantGitHub)
-</div>
+
+[![](https://komarev.com/ghpvc/?username=aurvantGitHub)
+
 
 - 👋 Hi, I’m Ayrton Urviola
 - 👀 I’m interested in Data Analysis and Data Science
