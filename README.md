@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/aurvantGitHub/aurvantGitHub/blob/main/GithubBanner.png" width="800"/>
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-urviola-antezana/)
+
 </div>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-urviola-antezana/)
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aurvantGitHub.aurvantGitHub1&color=00cf00" alt=""/>
