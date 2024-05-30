@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/aurvantGitHub/aurvantGitHub/blob/main/GithubBanner.png" width="800"/>
+</div>
+
 - 👋 Hi, I’m Ayrton Urviola
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently enrolled in a specialized Data Analysis bootcamp with Tripleten
