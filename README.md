@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-urviola-antezana/)
 
 <div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aurvantGitHub.aurvantGitHub1&color=00cf00" alt=""/>
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aurvantGitHub&color=00cf00" alt=""/>
 
 - 👋 Hi, I’m Ayrton Urviola
 - 👀 I’m interested in Data Analysis and Data Science
