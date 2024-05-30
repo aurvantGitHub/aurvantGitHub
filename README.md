@@ -17,7 +17,9 @@
 *  📫 You can send me a message on [LinkedIn](https://www.linkedin.com/in/ayrton-urviola-antezana/)
 *  ⚡ Fun fact: I am scientist with a passion for languages and learning
 
+---
 
+### :hammer_and_wrench: Skills :
 <!---
 aurvantGitHub/aurvantGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
