@@ -2,6 +2,8 @@
   <img decoding="async" src="https://github.com/aurvantGitHub/aurvantGitHub/blob/main/GithubBanner.png" width="800"/>
 </div>
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-urviola-antezana/)
+
 - 👋 Hi, I’m Ayrton Urviola
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently enrolled in a specialized Data Analysis bootcamp with Tripleten
