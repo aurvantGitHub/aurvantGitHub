@@ -9,7 +9,7 @@
 
 ---
  <div id="header" align="left">
-   ### :man_technologist: About me:
+### :man_technologist: About me:
     - 👋 Hi, I’m Ayrton Urviola
     - 👀 I’m interested in Data Analysis and Data Science
     - 🌱 I’m currently enrolled in a specialized Data Analysis bootcamp with Tripleten
