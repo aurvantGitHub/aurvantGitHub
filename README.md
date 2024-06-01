@@ -17,6 +17,7 @@
 </h1>
 
 ---
+
 ### :man_technologist: About me:
 *  👋 Hi, I’m Ayrton Urviola
 *  👀 I’m interested in Data Analysis and Data Science
@@ -30,6 +31,7 @@
 ### :hammer_and_wrench: Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=py,sqlite,mysql,anaconda,vscode,git,github,matlab)](https://skillicons.dev)
+
 ---
 
 ### 🔥 Stats :
@@ -37,6 +39,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurvantGitHub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 aurvantGitHub/aurvantGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
