@@ -15,8 +15,8 @@
 <h1>
   Welcome to my GitHub! 
 </h1>
----
 
+---
 ### :man_technologist: About me:
 *  👋 Hi, I’m Ayrton Urviola
 *  👀 I’m interested in Data Analysis and Data Science
