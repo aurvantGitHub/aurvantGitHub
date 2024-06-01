@@ -10,6 +10,10 @@
 
 ![](https://komarev.com/ghpvc/?username=aurvantGitHub)
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=aurvantGitHub" />
+</p>
+
 <h1>
   Welcome to my GitHub! 
 </h1>
