@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=aurvantGitHub" />
 </p>
 
-<h1>
+<h1 align="center">
   Welcome to my GitHub! 
 </h1>
 
