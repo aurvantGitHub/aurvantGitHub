@@ -2,8 +2,6 @@
   <img decoding="async" src="https://github.com/aurvantGitHub/aurvantGitHub/blob/main/GithubBanner.png" width="800"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-urviola-antezana/)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ayrton-urviola-antezana/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
