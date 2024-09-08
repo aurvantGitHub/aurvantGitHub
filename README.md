@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayrton-urviola-antezana/">
+  <a href="https://www.linkedin.com/in/ayrtonurviola-dataanalyst/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 *  👀 I’m interested in Data Analysis and Data Science
 *  🌱 I’m currently enrolled in a specialized Data Analysis bootcamp with Tripleten
 *  💞️ I’m looking to collaborate on interesting projects and put my skills to work!
-*  📫 You can send me a message on [![Linkedin Badge](https://img.shields.io/badge/-Ayrton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-urviola-antezana/)
+*  📫 You can send me a message on [![Linkedin Badge](https://img.shields.io/badge/-Ayrton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayrtonurviola-dataanalyst/)
 *  ⚡ Fun fact: I am scientist with a passion for languages and learning
 
 ---
